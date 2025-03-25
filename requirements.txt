@@ -1,0 +1,8 @@
+matplotlib~=3.10.1
+pandas~=2.2.3
+streamlit~=1.43.2
+fpdf~=1.7.2
+fonttools~=4.56.0
+numpy~=2.2.4
+scikit-learn~=1.6.1
+seaborn~=0.13.2
