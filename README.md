@@ -15,14 +15,14 @@ Many students struggle to decide which SHS strand to take. This tool aims to sim
 - **MBTI-based personality mapping**
 - **Subject confidence inputs as logical multipliers**
 
-It provides scores per strand instead of forcing a single choice — encouraging reflection and understanding over binary results.
+It provides scores per strand instead of forcing a single choice encouraging reflection and understanding over binary results.
 
 ---
 
 ## 💡 Originally Intended
 This project was originally intended to be a **machine learning-based recommendation system** that could predict the most suitable SHS strand based on real student data (e.g., academic performance, personality, interests).
 
-However, due to limited access to reliable and ethical datasets, I opted for a rule-based approach instead — combining weighted logic and MBTI personality mapping to generate compatibility scores for STEM, ABM, and HUMSS.
+However, due to limited access to reliable and ethical datasets, I opted for a rule-based approach instead combining weighted logic and MBTI personality mapping to generate compatibility scores for STEM, ABM, and HUMSS.
 
 Despite this pivot, the long-term goal is still to incorporate machine learning in future versions once sufficient data becomes available. 
 
