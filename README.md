@@ -1,4 +1,4 @@
-﻿# shs-strand-recommendation
+
 
 # 🧠 SHS Strand Recommendation System
 
@@ -6,6 +6,7 @@ A personalized assessment tool built to guide Filipino Senior High School studen
 
 This system combines logic-based scoring, MBTI personality alignment, and subject confidence multipliers to generate compatibility scores for each strand (STEM, ABM, HUMSS) — helping students make more informed and aligned academic choices.
 
+Access the system thru this link here: https://shs-strand-recommendation-9qpjg6bcm2xmjujszuqehf.streamlit.app/
 ---
 
 ## 🎯 Purpose
@@ -56,7 +57,3 @@ Despite this pivot, the long-term goal is still to incorporate machine learning 
 3. The system applies **subject-based weight multipliers** to determine compatibility.
 4. Each strand (STEM, ABM, HUMSS) receives a **separate compatibility score**.
 5. The results are displayed visually and can be **exported to PDF**.
-
-## What It Should Be
-
-Thu
