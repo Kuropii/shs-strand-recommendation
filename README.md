@@ -19,7 +19,7 @@ It provides scores per strand instead of forcing a single choice — encouraging
 
 ---
 
-💡 Originally Intended
+## 💡 Originally Intended
 This project was originally intended to be a **machine learning-based recommendation system** that could predict the most suitable SHS strand based on real student data (e.g., academic performance, personality, interests).
 
 However, due to limited access to reliable and ethical datasets, I opted for a rule-based approach instead — combining weighted logic and MBTI personality mapping to generate compatibility scores for STEM, ABM, and HUMSS.
