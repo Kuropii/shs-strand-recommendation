@@ -7,7 +7,9 @@ A personalized assessment tool built to guide Filipino Senior High School studen
 This system combines logic-based scoring, MBTI personality alignment, and subject confidence multipliers to generate compatibility scores for each strand (STEM, ABM, HUMSS) — helping students make more informed and aligned academic choices.
 
 Access the system thru this link here: https://shs-strand-recommendation-9qpjg6bcm2xmjujszuqehf.streamlit.app/
+
 ---
+
 
 ## 🎯 Purpose
 
